@@ -1,2 +1,2 @@
-# AutomaticFanSpeedController
-An embedded systems app that aims for controlling speed of a fan based on the surrounding temperature
+**Developing a system that controls the speed of a fan depending on the temperature**   
+Drivers: GPIO, ADC, PWM, LM35 Sensor, LCD and DC-Motor - Microcontroller: ATmega32.
